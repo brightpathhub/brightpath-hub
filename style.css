@@ -81,3 +81,14 @@ button {
 button:hover {
     background: #005fa3;
 }
+.logo {
+    font-size: 2.2em;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.tagline {
+    font-size: 1em;
+    color: #e6f2ff;
+    margin-top: 0;
+}
