@@ -24,8 +24,15 @@ nav a {
 }
 
 .hero {
+    background: linear-gradient(rgba(0,102,204,0.75), rgba(0,102,204,0.75)),
+                url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1600');
+    background-size: cover;
+    background-position: center;
+    color: white;
     text-align: center;
-    padding: 60px 20px;
+    padding: 80px 20px;
+    border-radius: 10px;
+    margin: 20px;
 }
 
 .hero h2 {
