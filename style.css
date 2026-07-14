@@ -106,3 +106,17 @@ button:hover {
     line-height: 1.8;
     color: white;
 }
+li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:visited {
+    color: white;
+}
+
+li a:hover {
+    color: #ffd54f;
+    text-decoration: underline;
+}
