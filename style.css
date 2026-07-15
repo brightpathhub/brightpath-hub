@@ -213,3 +213,19 @@ li a:hover {
     line-height: 1.6;
     margin: 0;
 }
+.hero h2 {
+    font-size: 42px;
+}
+
+.hero p {
+    font-size: 22px;
+}
+
+.card h3 {
+    font-size: 32px;
+}
+
+.card p {
+    font-size: 22px;
+    line-height: 1.7;
+}
