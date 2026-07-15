@@ -130,3 +130,41 @@ li a:hover {
     padding: 0 10px 15px 10px;
     line-height: 1.6;
 }
+.topics h2 a,
+.topics h2 a:visited {
+    color: #333333;
+    text-decoration: none;
+    display: block;
+}
+
+.topics h2 a:hover {
+    color: #0077cc;
+}
+
+.resume-checklist {
+    background: #ffffff;
+    margin: 30px 15px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+}
+
+.resume-checklist h2 {
+    margin-top: 0;
+}
+
+.resume-checklist ul {
+    padding-left: 25px;
+    line-height: 1.9;
+}
+
+.button {
+    display: inline-block;
+    background: #0077cc;
+    color: #ffffff !important;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin-top: 15px;
+    border-radius: 8px;
+    font-weight: bold;
+}
